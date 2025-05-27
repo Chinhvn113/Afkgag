@@ -50,7 +50,7 @@ pip install pyautogui
 2. Run the script:
 
 ```bash
-python3 roblox_autoclicker.py
+python3 afk.py
 ```
 
 3. Leave it running in the background — it will click Roblox every **18 minutes** and return to your current window.
