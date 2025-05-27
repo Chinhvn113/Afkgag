@@ -60,7 +60,7 @@ python3 roblox_autoclicker.py
 To stop your system from going idle while this script runs:
 
 ```bash
-systemd-inhibit --what=idle python3 roblox_autoclicker.py
+systemd-inhibit --what=idle python3 afk.py
 ```
 
 Or manually disable sleep:
